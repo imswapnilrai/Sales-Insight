@@ -67,7 +67,7 @@ The Power BI dashboard provides a comprehensive visualization of the findings an
 - **Category Performance**: Office Supplies had the highest sales, especially in the Western and Eastern regions.
 - **Segment Distribution**: Consumer segment was the largest ordering sector, followed by Corporate and Home Office.
 
-## **Data Cleaning and Exploratory Data Analysis (EDA) Using Pandas**
+## **Data Cleaning and Exploratory Data Analysis (EDA) Using Pandas and Matplotlib**
 ### **Key Observations**
 - **Sales Trends**:
   - Sales in 2020 increased compared to 2019.
